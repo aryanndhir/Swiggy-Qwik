@@ -22,7 +22,7 @@ We've learned to seek engaging in-hand comfy experiences from every service prov
 | 1 | Ayan | Authorization |
 | 2 | Yash Mantri | Categories |
 | 3 | Akash Yadav | Products |
-| 4 | Aryan Dhirr | Cart |
+| 4 | Aryann Dhir | Cart |
 | 5 | Aaditya Khetan | Payments |
 | 6 | Aaditya Khetan | Transactions |
 | 7 | Ravi Kumar S | Customer |
@@ -34,7 +34,7 @@ We've learned to seek engaging in-hand comfy experiences from every service prov
 | 1 | Ayan | Gateway |
 | 2 | Yash Mantri | Rewards |
 | 3 | Akash Yadav | Products |
-| 4 | Aryan Dhirr | Orders |
+| 4 | Aryann Dhir | Orders |
 | 5 | Ravi Kumar S | Customer |
 | 6 | Ashwin Gopalsamy | Shipping |
 | 7 | Ashwin Gopalsamy | Checkout |
